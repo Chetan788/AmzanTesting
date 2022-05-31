@@ -25,7 +25,7 @@ public class AmzonTest1 {
 	{
 		System.out.println("fail");
 	}
-
+System.out.println("chetan");
 
 	//test case2
 			driver.get("https://www.amazon.in/");
